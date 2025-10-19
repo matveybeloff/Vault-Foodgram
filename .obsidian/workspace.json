@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "02ef43a545a674d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "0436f29d2f4d2e71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a66eaa6485c712e1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фудграм Яндекс/План работы/Конкретный план.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Конкретный план"
+            }
+          },
+          {
+            "id": "c535d60220680052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Фудграм Яндекс/О проекте/Требования к инфраструктуре проекта.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Требования к инфраструктуре проекта"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06bdb8afc0ab83f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ac604e05bd7af80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db7394381f5b3742",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "6ddd002fd5d0aebf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "1184a51142ee78ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.51103591918945
+  },
+  "right": {
+    "id": "a28623d5eac5f702",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cfc0d8bc751d70c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9ba8c9f48adfc67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Фудграм Яндекс/Страницы проекта/Главная.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Главная"
+            }
+          },
+          {
+            "id": "9f8b2a8dd7beefcf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Фудграм Яндекс/Страницы проекта/Главная.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Главная"
+            }
+          },
+          {
+            "id": "c1a8545d0fd58f69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "401afebdcfde5129",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Фудграм Яндекс/Страницы проекта/Главная.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Главная"
+            }
+          },
+          {
+            "id": "aa083aded8bd382e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "random-note:Открыть случайную заметку": false,
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "a66eaa6485c712e1",
+  "lastOpenFiles": [
+    "Фудграм Яндекс/План работы/Конкретный план.md",
+    "Фудграм Яндекс/О проекте/Требования к инфраструктуре проекта.md",
+    "Фудграм Яндекс/О проекте/Подготовленная структура.md",
+    "Фудграм Яндекс/О проекте/Настройка админки.md",
+    "Фудграм Яндекс/О проекте/Задание.md",
+    "Фудграм Яндекс/Возможности/Разграничение прав.md",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/api_yamdb/reviews/management/commands/__init__.py",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/api_yamdb/reviews/management/commands/README_import_csv.md",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/api_yamdb/reviews/management/commands/import_csv.py",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/api_yamdb/static/data/users.csv",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/api_yamdb/static/data/titles.csv",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/api_yamdb/static/data/review.csv",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/api_yamdb/static/data/genre_title.csv",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/api_yamdb/static/data/genre.csv",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/api_yamdb/static/data/comments.csv",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/api_yamdb/static/data/category.csv",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/api_yamdb/users/migrations/__init__.py",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/postman_collection/README.md",
+    "Фудграм Яндекс/Примеры проектов/api-yamdb/README.md",
+    "Фудграм Яндекс/Возможности/Фильтрация по тегам.md",
+    "Фудграм Яндекс/Возможности/Смена аватара.md",
+    "Фудграм Яндекс/О проекте/Базовые модели проекта.md",
+    "Фудграм Яндекс/План работы/Общий план.md",
+    "Фудграм Яндекс/Примеры проектов/taski-docker/README.md",
+    "Фудграм Яндекс/Примеры проектов/taski-docker/frontend/public/logo512.png",
+    "Фудграм Яндекс/Примеры проектов/taski-docker/frontend/public/logo192.png",
+    "Фудграм Яндекс/Примеры проектов/taski-docker/frontend/README.md",
+    "Фудграм Яндекс/Подсказки и лайфхаки/Спецификация API.md",
+    "Фудграм Яндекс/Страницы проекта/Главная.md",
+    "Изображения/Pasted image 20251016213053.png",
+    "Изображения/Pasted image 20251016212832.png",
+    "Изображения/Pasted image 20251016212739.png",
+    "Изображения/Pasted image 20251016212251.png",
+    "Фудграм Яндекс/Страницы проекта/Смена пароля.md",
+    "Фудграм Яндекс/Страницы проекта/Регистрация.md",
+    "Фудграм Яндекс/Страницы проекта/Пользователь.md",
+    "Фудграм Яндекс/Страницы проекта/О проекте.md",
+    "Фудграм Яндекс/Страницы проекта/Избранное.md",
+    "Фудграм Яндекс/Страницы проекта/Вход.md",
+    "Фудграм Яндекс/Архитектура архитектуры.md",
+    "Фудграм Яндекс/Сдача проекта/Пора на ревью.md",
+    "Фудграм Яндекс/Сдача проекта/Как сдавать проект.md",
+    "Изображения/Pasted image 20251016213802.png",
+    "Изображения/Pasted image 20251016213724.png",
+    "Изображения/Pasted image 20251016213654.png",
+    "Изображения/Pasted image 20251016213108.png"
+  ]
+}
